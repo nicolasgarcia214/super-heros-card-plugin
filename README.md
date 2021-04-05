@@ -1,4 +1,4 @@
-[![](https://github.com/nicolasgarcia214/super-heros-card-plugin/blob/master/superhero-card.gif)](#)
+[![](https://github.com/nicolasgarcia214/super-heros-card-plugin/blob/main/superhero-card.gif)](#)
 
 # SUPERHERO CARD 👊🦉
 
